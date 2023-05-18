@@ -258,7 +258,7 @@ void mostrar_numero(int n)//Ilumina el display 7 segmentos segun el entero que f
 }
 ```
 ## DIAGRAMA ESQUEMATICO:
-![](https://github.com/LuisAtocheUTNFRA/PrimerParcialSPD/blob/main/diagramaEsquematico.pdf)
+![diagrama](https://github.com/LuisAtocheUTNFRA/PrimerParcialSPD/blob/main/diagramaEsquematico.pdf)
 
 
 
