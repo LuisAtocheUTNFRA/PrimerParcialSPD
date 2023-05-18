@@ -1,5 +1,5 @@
 # PRIMER PARCIAL SPD UTN 2023
-![imagen arduino](https://static4.arrow.com/-/media/arrow/images/820-x-410/1/1117_arduino_uno_overview_820.jpg)
+![imagen arduino](https://predictabledesigns.com/wp-content/uploads/2022/07/Arduino-featured-image.jpg)
 
 *ALUMNO: Luis Enrique Atoche Castro*
 
