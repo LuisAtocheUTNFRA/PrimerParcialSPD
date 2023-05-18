@@ -17,6 +17,7 @@ MONTACARGAS
 Un led verde se enciende cuando el montacarga está en movimiento y cuando se detiene se apaga y enciende uno rojo.
 El recorrido entre pisos es de 3 segundos. Cuando el boton de pausa viene pulsado el sistema se detiene y los botones de subida y bajada no funcionan hasta que nuevamente se pulse el boton de pausa*
 
+## ENLACE TINKERCAD:
 [enlace al proyecto tinkercad](https://www.tinkercad.com/things/by1mgYwkU8d)
 ## FUNCIONAMIENTO:
 *En esta primera parte defino y declaro las variables a utilizar:*
